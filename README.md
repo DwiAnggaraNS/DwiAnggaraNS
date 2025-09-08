@@ -74,4 +74,6 @@ Here are some of the tools and technologies I'm proficient with:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwiAnggaraNS&layout=compact&theme=dracula" alt="Top Languages"/>
 </div>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DwiAnggaraNS/DwiAnggaraNS/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation dark](https://github.com/DwiAnggaraNS/DwiAnggaraNS/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
