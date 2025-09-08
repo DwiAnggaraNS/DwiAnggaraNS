@@ -70,7 +70,8 @@ Here are some of the tools and technologies I'm proficient with:
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DwiAnggaraNS&show_icons=true&theme=dracula" alt="Dwi's GitHub Stats"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=DwiAnggaraNS&show_icons=true&theme=dracula" alt="Dwi's GitHub Stats"/>
+   -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwiAnggaraNS&layout=compact&theme=dracula" alt="Top Languages"/>
 </div>
 
