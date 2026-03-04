@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a 6th-semester **Software Engineering** student at **Universitas Gadjah Mada (UGM)** with a GPA of **3.96/4.00**. My core passion lies at the intersection of **Backend Development, AI/Machine Learning, and Data Engineering**. I thrive on transforming complex problems into elegant, high-performing software solutions.
+I'm a 6th-semester **Software Engineering** student at **Universitas Gadjah Mada (UGM)**. My core passion lies at the intersection of **Backend Development, AI/Machine Learning, and Data Engineering**. I thrive on transforming complex problems into elegant, high-performing software solutions.
 
 - 🏆 **Three-time 1st Place Winner** in national AI & Data Science competitions.  
 - 🚀 **Team Leader & Mentor**, experienced in leading teams of 20+ members and guiding projects from ideation to deployment.  
