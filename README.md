@@ -59,10 +59,10 @@ Here are some of the tools and technologies I'm proficient with:
 </details>
 
 <details>
-  <summary>🏭 Lembaga Sertifikasi Profesi UGM Platform (Legacy System Revamp)</summary>
+  <summary>🏭 Lembaga Sertifikasi Profesi UGM Platform</summary>
 
   <ul>
-    <li><strong>What I Did:</strong> As a Fullstack Developer, I refactored a critical, bug-ridden legacy system for UGM's professional certification body.</li>
+    <li><strong>What I Did:</strong> As a Fullstack Developer, I refactored a critical, bug-ridden system under active development for UGM's professional certification body.</li>
     <li><strong>Impact:</strong> Stabilized 6 core modules, developed 25+ REST APIs with Swagger documentation, and led bug resolution using an Agile/Kanban workflow.</li>
     <li><strong>Tech:</strong> <code>PHP</code>, <code>Laravel</code>, <code>MySQL</code>, <code>Swagger</code>, <code>Git</code>.</li>
   </ul>
@@ -74,16 +74,12 @@ Here are some of the tools and technologies I'm proficient with:
   <ul>
     <li><strong>What I Did:</strong> My team and I won 1st place out of 57+ teams by analyzing customer review data for Qatar Airways.</li>
     <li><strong>Impact:</strong> We designed the winning infographic, "Warning Signs in the Skies," using time-series forecasting and sentiment analysis to provide actionable business insights.</li>
+    <li><strong><a href="https://drive.google.com/file/d/1nPFPq7h0SvCGwUQta0J9imdgftsx0PFK/view?usp=drive_link/">Check Infographic (Indonesian Language)</a></li>
   </ul>
 </details>
 
 ---
 
 ### 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwiAnggaraNS&layout=compact&theme=dracula" alt="Top Languages"/>
-</div>
-
 ![Snake animation](https://github.com/DwiAnggaraNS/DwiAnggaraNS/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake animation dark](https://github.com/DwiAnggaraNS/DwiAnggaraNS/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
